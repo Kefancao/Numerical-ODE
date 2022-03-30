@@ -1,7 +1,7 @@
 # Ordinary Differential Equation
 This repo is intended for me to introduce a common technique called the Euler's method to solve derivatives. The Euler's method is one that has been taught to most people during high school as the fundamental theorem of calculus. It looks similar to this, 
 
-$$f(x+h) - f(x) \approx f(x) \cdot h$$
+<img src="https://latex.codecogs.com/svg.image?f(x&plus;h)&space;-&space;f(x)&space;\approx&space;f(x)&space;\cdot&space;h">
 Rearranging we have, 
 $$f(x+h) \approx f(x)\cdot h + f(x)$$
 
